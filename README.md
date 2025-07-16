@@ -171,8 +171,8 @@ await window.electronAPI.setConfig('theme', 'dark');
 ## 联系方式
 
 如有问题或建议，请通过以下方式联系：
-- 邮箱：your-email@example.com
-- 项目主页：https://github.com/your-username/media-assistant
+- 邮箱：247695042@qq.com
+- 项目主页：https://github.com/xiaoshuhao1999/media_assitant.git
 
 ## 更新日志
 
